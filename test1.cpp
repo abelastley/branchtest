@@ -9,6 +9,7 @@ int main()
 {
 	printf("hello!\n\n");
 	abelsFunction();
+	abelsFunction();
 	timsFunction();
 	timsFunction();
 	
