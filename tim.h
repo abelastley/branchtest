@@ -1,4 +1,4 @@
 inline void timsFunction()
 {
-	printf("my name is Tim Wei!\n\n");
+	printf("my name is Tim!\n\n");
 }
