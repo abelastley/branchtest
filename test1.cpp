@@ -12,6 +12,7 @@ int main()
 	abelsFunction();
 	timsFunction();
 	timsFunction();
+	timsFunction();
 	
 	return 0;
 }
