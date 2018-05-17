@@ -13,7 +13,7 @@ int main()
 	timsFunction();
 	timsFunction();
 	timsFunction();
-	
+	printf("goodbye!\n\n");
 	return 0;
 }
 
